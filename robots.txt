@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://okayu1015.github.io/profile//profile/sitemap.xml
+Sitemap: https://okayu1015.github.io/profile//sitemap.xml
